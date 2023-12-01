@@ -1,3 +1,4 @@
-src/secrets.rs
 target
 Cargo.lock
+cookie
+src/main_backup
